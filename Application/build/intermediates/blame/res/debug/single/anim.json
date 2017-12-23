@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/prithivraj-1942/Code/My_Github/SlidingTabsBasic/Application/build/intermediates/res/merged/debug/anim/tooltip_exit.xml",
+        "source": "/Users/prithivraj-1942/.android/build-cache/18240ef8648cdc4e6c13866dc0386c460c0fe58c/output/res/anim/tooltip_exit.xml"
+    },
+    {
+        "merged": "/Users/prithivraj-1942/Code/My_Github/SlidingTabsBasic/Application/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/prithivraj-1942/.android/build-cache/18240ef8648cdc4e6c13866dc0386c460c0fe58c/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/prithivraj-1942/Code/My_Github/SlidingTabsBasic/Application/build/intermediates/res/merged/debug/anim/tooltip_enter.xml",
+        "source": "/Users/prithivraj-1942/.android/build-cache/18240ef8648cdc4e6c13866dc0386c460c0fe58c/output/res/anim/tooltip_enter.xml"
+    },
+    {
+        "merged": "/Users/prithivraj-1942/Code/My_Github/SlidingTabsBasic/Application/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/prithivraj-1942/.android/build-cache/18240ef8648cdc4e6c13866dc0386c460c0fe58c/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/prithivraj-1942/Code/My_Github/SlidingTabsBasic/Application/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/prithivraj-1942/.android/build-cache/18240ef8648cdc4e6c13866dc0386c460c0fe58c/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/prithivraj-1942/Code/My_Github/SlidingTabsBasic/Application/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/prithivraj-1942/.android/build-cache/18240ef8648cdc4e6c13866dc0386c460c0fe58c/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/prithivraj-1942/Code/My_Github/SlidingTabsBasic/Application/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/prithivraj-1942/.android/build-cache/18240ef8648cdc4e6c13866dc0386c460c0fe58c/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/prithivraj-1942/Code/My_Github/SlidingTabsBasic/Application/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/prithivraj-1942/.android/build-cache/18240ef8648cdc4e6c13866dc0386c460c0fe58c/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/prithivraj-1942/Code/My_Github/SlidingTabsBasic/Application/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/prithivraj-1942/.android/build-cache/18240ef8648cdc4e6c13866dc0386c460c0fe58c/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/prithivraj-1942/Code/My_Github/SlidingTabsBasic/Application/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/prithivraj-1942/.android/build-cache/18240ef8648cdc4e6c13866dc0386c460c0fe58c/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/prithivraj-1942/Code/My_Github/SlidingTabsBasic/Application/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/prithivraj-1942/.android/build-cache/18240ef8648cdc4e6c13866dc0386c460c0fe58c/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/prithivraj-1942/Code/My_Github/SlidingTabsBasic/Application/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/prithivraj-1942/.android/build-cache/18240ef8648cdc4e6c13866dc0386c460c0fe58c/output/res/anim/abc_slide_in_top.xml"
+    }
+]
